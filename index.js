@@ -18,4 +18,4 @@ var fareDoubler = createFareMultiplier(2);
 
 var fareTripler = createFareMultiplier(3);
 
-var selectDifferentDrivers = function(drivers, whi)
+var selectDifferentDrivers = function(drivers, someDrivers)
